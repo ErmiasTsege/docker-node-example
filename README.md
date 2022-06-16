@@ -1,3 +1,3 @@
 # swe-inventory-app-starter
-Boilerplate code for Mod 3
+This is read me file
 
