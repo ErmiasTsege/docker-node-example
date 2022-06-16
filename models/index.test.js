@@ -11,5 +11,10 @@ describe('Sauce Model', () => {
 		expect(testSauce.name).toBe('Cholula')
 	})
 
+	// test('Sauce has an image', async()=>{
+	// 	const imageStr = 'https://media.giphy.com/m'
+	// 	const testSauce =await Sauce.create({name:"Cholula",imgage: imageStr})
+	// })
+
 
 })
