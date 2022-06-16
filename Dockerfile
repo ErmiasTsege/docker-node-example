@@ -25,4 +25,4 @@ COPY . .
 
 EXPOSE 3000
 
-CMD ["node","run","start"]  
+CMD ["node","app.js"]  
